@@ -1,0 +1,7 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "tailwindCSS.emmetCompletions": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+      }
+}
